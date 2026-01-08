@@ -6,8 +6,6 @@
 
 <div align="center">
 
-让平凡的文本变得生动有趣，为每一段文字注入情感的灵魂
-
 🚀 快速开始 | 📱 功能特性 | ⚙️ 配置说明 | 🌟 效果展示
 
 </div>
@@ -257,6 +255,6 @@ Permission is hereby granted...
 💬 问题反馈 | 
 ⭐ 给个Star
 
-让每一个文字都拥有表情的力量 ✨
+为每一段文字增加emoji，但不止于emoji。 ✨
 
 </div>
