@@ -200,6 +200,8 @@ show_debug_info: true
 
 ---
 
+```yaml
+
 📊 性能指标
 
   - 指标: "处理速度"
@@ -222,6 +224,8 @@ show_debug_info: true
     数值: "<50MB"
     说明: "轻量级设计"
 
+```
+
 ---
 
 ⚠️ 注意事项
@@ -243,19 +247,7 @@ show_debug_info: true
 
 特别感谢以下贡献者：
 
-· 后室里的星彩 - 主要开发者
+· 后室の星彩_ - 主要开发者
 · ctnBobong32 - 核心贡献者
 
 ---
-
-<div align="center">
-
-📞 联系支持
-
-📧 邮箱联系 | 
-💬 问题反馈 | 
-⭐ 给个Star
-
-为每一段文字增加emoji，但不止于emoji。 ✨
-
-</div>
